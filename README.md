@@ -1,9 +1,10 @@
 ## Projeto Shopping Cart
 
-#### Consiste em uma aplicação web, construída em grupo, de um e-commerce utilizando a API do Mercado Livre, com as funcionalidades de busca de produto por nome ou categoria; interação com os produtos deixando comentários e avaliações, adição e remoção de prdutos ao carrinho de compra mediante a disponibilidade no estoque e simulação da página de compra dos itens selecionados com as opções de pagamento.
-> Esta aplicação foi desenvolvida utilizando as bibliotecas React e BrowserRouter, juntamente com metodologia ágeis para trabalhar em equipe por meio da utilização do Kanban e Scrum.
+#### Consiste em uma aplicação web utilizando a API do Mercado Livre para desenvolver uma Carrinho de Compras dinâmico com funções assíncronas (presente na pasta `helpers`) e implementações de seus testes (presente na pasta `tests`). Essa página é possível adicionar um produto ao carrinho de compras; remover um item ao clicar sobre ele; armazenamento dos dados adicionados ao carrinho no LocalStorage do navegador e remover todos os produtos adicionados ao carrinho.
+> Esta aplicação foi desenvolvida utilizando HTML5, CSS3 e JavaScript.
+> Observação: a estilização da página foi fornecido pela Trybe, apenas parte do layout dos produtos e da lista de produtos foi incluído e/ou modificado.
 
-:point_right: **Acessar:** _[Clique Aqui](colocar)_
+:point_right: **Acessar:** _[Clique Aqui](https://guilherme-ac-fernandes.github.io/shopping-cart/)_
 
 #### Demostração
 <p align="center">
