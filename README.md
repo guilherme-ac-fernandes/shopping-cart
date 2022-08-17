@@ -9,6 +9,7 @@ Consiste em uma aplicação web utilizando a API do Mercado Livre para desenvolv
 
 👨🏻‍💻 **Acessar:** _[Clique Aqui](https://guilherme-ac-fernandes.github.io/shopping-cart/)_
 
+<br>
 <p align="center">
   <img src="https://github.com/guilherme-ac-fernandes/shopping-cart/blob/main/shopping-cart.gif" alt="Shopping Cart Gif - Demostração"/>
 </p>
